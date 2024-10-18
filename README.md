@@ -1,7 +1,7 @@
 # Swagger
 
-# Change for swagger.json file
-# Add delete route in
+## Change for swagger.json file
+## Add delete route in
         "/restaurant/{id}": {
             "delete": {
                 "tags": ["Restaurants"],
